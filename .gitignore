@@ -1,0 +1,16 @@
+/.vscode
+/CMakeCache.txt
+/CMakeFiles
+/cmake_install.cmake
+/libCollumnLib.a
+/libCommonLib.a
+/libCreateCollumnStLib.a
+/libCreateTableStLib.a
+/libGenericObjectLib.a
+/libGetValueStLib.a
+/libObjectTypeLib.a
+/libParcerLib.a
+/libTableLib.a
+/MAIN
+/main old.cpp
+/main.cpp
